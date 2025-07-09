@@ -1,0 +1,17 @@
+{
+    "name": "administrator/uas-levi-ti-1c-php",
+    "description": "Sistem Pendaftaran dan Manajemen Acara Online",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\UasLeviTi1cPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmad Aulia Fahlevi",
+            "email": "aauliafahlefi@gmail.com"
+        }
+    ],
+    "require": {}
+}

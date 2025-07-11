@@ -23,7 +23,7 @@ $result = mysqli_query($koneksi, "SELECT * FROM pembayaran ORDER BY id DESC");
     </div>
     <ul id="navLinks">
         <li><a href="index.php">Halaman Utama</a></li>
-        <li><a href="daftar.php">Daftar Peserta</a></li>
+        <li><a href="peserta.php">Daftar Peserta</a></li>
         <li><a href="pembayaran.php">Pengelolaan Pembayaran</a></li>
         <li><a href="feedback.php">Feedback Acara</a></li>
     </ul>
